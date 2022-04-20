@@ -1,0 +1,9 @@
+c:\users\ali\documents\visual studio 2017\Projects\Yasimi bul\Yasimi bul\bin\Debug\Yasimi bul.exe.config
+c:\users\ali\documents\visual studio 2017\Projects\Yasimi bul\Yasimi bul\bin\Debug\Yasimi bul.exe
+c:\users\ali\documents\visual studio 2017\Projects\Yasimi bul\Yasimi bul\bin\Debug\Yasimi bul.pdb
+c:\users\ali\documents\visual studio 2017\Projects\Yasimi bul\Yasimi bul\obj\Debug\Yasimi bul.csprojResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2017\Projects\Yasimi bul\Yasimi bul\obj\Debug\Yasimi_bul.Properties.Resources.resources
+c:\users\ali\documents\visual studio 2017\Projects\Yasimi bul\Yasimi bul\obj\Debug\Yasimi bul.csproj.GenerateResource.Cache
+c:\users\ali\documents\visual studio 2017\Projects\Yasimi bul\Yasimi bul\obj\Debug\Yasimi bul.exe
+c:\users\ali\documents\visual studio 2017\Projects\Yasimi bul\Yasimi bul\obj\Debug\Yasimi bul.pdb
+c:\users\ali\documents\visual studio 2017\Projects\Yasimi bul\Yasimi bul\obj\Debug\Yasimi_bul.AgeFinder.resources
